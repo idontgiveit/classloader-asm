@@ -1,0 +1,4 @@
+rootProject.name = 'classloader-asm'
+include 'TransformAgent'
+include 'TestClassloaderProject'
+
